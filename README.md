@@ -1,0 +1,2 @@
+# Aleatoriedade.io
+Site aleatorio
